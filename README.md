@@ -34,7 +34,11 @@ Do **not** use it for real financial transactions.
 ## Usage
 1. Clone the repo
 2. Install dependencies
-3. Run frontend and backend locally
+3. Run frontend and backend locally. This will start a local development server that you can access at `http://localhost:3000/`.
 
- 
+**Important Notes:**
+
+- **`localhost:3000`** is a local address. It is only accessible on the machine where the application is running and is used for development purposes only.
+- The app is **not accessible publicly** via the internet. If you're running this on your local machine, only you can access it unless you configure your network or use public hosting.
+- If you wish to share the app or make it publicly accessible, you will need to deploy it to a cloud provider or a public server.
 
