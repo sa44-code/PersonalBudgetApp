@@ -9,8 +9,9 @@ A fullstack finance tracking web application with CRUD functions (Create, Read, 
 #### Tools:Git, GitHub, Swagger (OpenAPI), VS Code
 #### Concepts:RESTful APIs,CRUD operations,MVC architecture
 
-## Demo Video
+## Application Screenshots
 
-[The demo video (~11 MB) can be downloaded here:](https://github.com/sa44-code/Finance-Tracker/tree/main/backend/wwwroot/videos/Finance_Tracker.mp4)
-##### To navigate the project directory to download the video kindly click this link (size of the video is ~11 MB):https://github.com/sa44-code/Finance-Tracker/tree/main/backend/wwwroot/videos/Finance_Tracker.mp4
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
 

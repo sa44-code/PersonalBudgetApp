@@ -96,7 +96,7 @@ function App() {
 
   return (
     <Container maxWidth="md" sx={{ padding: 4 }}>
-      <Typography variant="h3" gutterBottom>Finance Tracker</Typography>
+      <Typography variant="h3" gutterBottom>Personal Expense Budget App</Typography>
 
       {alert && <Alert severity="warning" sx={{ mb: 2 }}>{alert}</Alert>}
 

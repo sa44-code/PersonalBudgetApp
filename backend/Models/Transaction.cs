@@ -1,6 +1,6 @@
 using System;
 
-namespace FinanceTracker.Models
+namespace PersonalBudgetApp.Models
 {
     public class Transaction
     {

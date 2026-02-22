@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using FinanceTracker.Data;
-using FinanceTracker.Models;
+using PersonalBudgetApp.Data;
+using PersonalBudgetApp.Models;
 
-namespace FinanceTracker.Controllers
+namespace PersonalBudgetApp.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

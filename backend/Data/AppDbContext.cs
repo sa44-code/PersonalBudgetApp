@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using FinanceTracker.Models;
+using PersonalBudgetApp.Models;
 
-namespace FinanceTracker.Data
+namespace PersonalBudgetApp.Data
 {
     public class AppDbContext : DbContext
     {

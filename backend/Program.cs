@@ -1,4 +1,4 @@
-using FinanceTracker.Data;
+using PersonalBudgetApp.Data; 
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -42,9 +42,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "FinanceTracker API V1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "PersonalBudgetApp API V1"); // Updated name here
     });
 }
+
+// Do not use static files if you don't need them
+// REMOVE the following line if not needed
+// app.UseStaticFiles();  // <- This could be causing the problem
 
 app.UseHttpsRedirection();
 app.MapControllers();
