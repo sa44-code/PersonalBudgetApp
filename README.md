@@ -1,5 +1,5 @@
 # Personal Budget App
-## built with React (frontend) and ASP.NET (backend).  
+###### built with React (frontend) and ASP.NET (backend).  
 ## This project is for learning and portfolio purposes only.
 
 A fullstack Budget web application with CRUD functions (Create, Read, Update, Delete) for managing transactions. RESTful API were developed using ASP.NET Core and Axios is used to connect React frontend. Entity Framework Core is used with SQLite for database operations and Swagger for API documentation.
