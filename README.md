@@ -22,7 +22,7 @@ A fullstack Budget web application with CRUD functions (Create, Read, Update, De
 #### Concepts:RESTful APIs,CRUD operations,MVC architecture
 
 ## Application Screenshots
-#### For screenshots of the application please click here:`screenshots/` folder.
+#### Screenshots of the application are located in `screenshots/` folder.
 
 ## Disclaimer
 This is a **personal project**. No real banking or personal data is used.  
