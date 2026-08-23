@@ -28,7 +28,7 @@ A fullstack Budget web application with CRUD functions (Create, Read, Update, De
 
 The project documentation includes the following:
 
-- [Requirement Analysis](docs/Requirement-Analysis.md)
+- [Requirement Analysis](docs/Requirements-Analysis.md)
 - [User Stories](docs/User-Stories.md)
 - [Acceptance Criteria](docs/Acceptance-criteria.md)
 - [Use Case Diagram](docs/Use-Case-Diagram.png)
