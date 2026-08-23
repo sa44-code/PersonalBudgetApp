@@ -24,6 +24,15 @@ A fullstack Budget web application with CRUD functions (Create, Read, Update, De
 ## Application Screenshots
 #### Screenshots of the application are located in `screenshots/` folder.
 
+## Project Documentation
+
+The project documentation includes the following:
+
+- [Requirement Analysis](docs/Requirement-Analysis.md)
+- [User Stories](docs/User-Stories.md)
+- [Acceptance Criteria](docs/Acceptance-criteria.md)
+- [Use Case Diagram](docs/Use-Case-Diagram.png)
+
 ## Disclaimer
 This is a **personal project**. No real banking or personal data is used.  
 Do **not** use it for real financial transactions.  
